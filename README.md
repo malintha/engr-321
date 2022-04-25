@@ -1,6 +1,4 @@
-# ENGR-321: Advanced Cyber Physical Systems 
-
-## This repo contains some course materials I have prepared for the this class in spring 2021. Essentially the lectures include,
+## This repo containss lecture materials on,
 
 - An introduction to dynamical systems in robotics
 - Linear dynamical systems - part (1)
