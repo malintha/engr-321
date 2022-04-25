@@ -7,9 +7,8 @@
 - Linear dynamical systems - part (2)
 - Linear quadratic regulator.
 
-## The first assignment focuses on,
+## The differential dynamics assignment focuses on,
 - deriving a differential driven robot dynamical model,
-<!-- - linearizing the non-linear dynamics, -->
 - simulating the dynamical model using python and by solving differential equations.
 
 ## The LQR assignment focuses on,
