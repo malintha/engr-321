@@ -1,12 +1,12 @@
-## This repo containss lecture materials on,
+## This repo contains lecture materials on,
 
 - An introduction to dynamical systems in robotics
 - Linear dynamical systems - part (1)
 - Linear dynamical systems - part (2)
 - Linear quadratic regulator.
 
-## The differential dynamics assignment focuses on,
-- deriving a differential driven robot dynamical model,
+## The differential driven dynamics assignment focuses on,
+- deriving a differential driven robot dynamical model by completing a partial proof,
 - simulating the dynamical model using python and by solving differential equations.
 
 ## The LQR assignment focuses on,
